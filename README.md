@@ -39,13 +39,13 @@
 ---
 
 ## 📊 GitHub Stats  
-![Puskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=puskarnirola&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puskarnirola&layout=compact&theme=radical)  
+![Puskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuskarDaju&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuskarDaju&layout=compact&theme=radical)  
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puskar-niroula-aa75ba326/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://puskarniroula.vercel.app)  
 
 ---
