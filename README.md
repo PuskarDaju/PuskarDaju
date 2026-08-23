@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-puskarniroula.com.np-blue)](http://puskarniroula.com.np/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Puskar%20Niroula-blue)](https://www.linkedin.com/in/puskar-niroula-aa75ba326/)  
-[![GitHub](https://img.shields.io/badge/GitHub-PuskarDaju-black)](https://github.com/PuskarDaju)
+[![GitHub](https://img.shields.io/badge/GitHub-PuskarNiroula-black)](https://github.com/PuskarNiroula)
 
 ---
 
